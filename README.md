@@ -17,7 +17,7 @@ Welcome to the **CSE465: PyTorch Coding Tutorial** repository! This project is d
   - Image Data Pre-processing
   - Implementation of a Convolutional Neural Network (CNN) using PyTorch
   - CNN Training and Evaluation
-
+  - Live demonstration for CNN: https://deeplizard.com/resource/pavq7noze2
 
 🚀 **The notebooks were executed on Google Colab using a T4 GPU.**
 
